@@ -1,0 +1,21 @@
+Ejercicio: Animales
+
+
+
+Crea una superclase llamada Animal con los siguientes métodos:
+
+
+
+    __init__(self, nombre): Inicializa el nombre del animal.
+
+
+
+    hablar(self): Debe ser un método abstracto (sin implementación) que represente el sonido que hace el animal. Las subclases deben proporcionar una implementación para este método.
+
+
+
+Luego, crea dos subclases, Perro y Gato, que hereden de Animal. En estas subclases, implementa el método hablar() para representar los sonidos típicos de un perro y un gato respectivamente (por ejemplo, "Guau" y "Miau").
+
+
+
+Finalmente, crea instancias de ambas subclases y muestra el nombre y el sonido de cada animal en pantalla.

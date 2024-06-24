@@ -1,0 +1,23 @@
+Ejercicio: Función para Determinar si un Número es Par o Impar
+
+
+
+Descripción:
+
+
+
+Escribe un programa en Python que permita al usuario definir una función llamada es_par en un módulo externo y luego utilice esa función para determinar si un número ingresado por el usuario es par o impar.
+
+
+
+Instrucciones:
+
+
+
+    Crea un archivo llamado modulo_personalizado.py que contendrá la definición de la función es_par. Esta función debe tomar un número como argumento y devolver True si es par o False si es impar.
+
+    Solicita al usuario que ingrese un número.
+
+    Importa la función es_par desde modulo_personalizado.py en el programa principal.
+
+    Utiliza la función es_par para determinar si el número ingresado por el usuario es par o impar y muestra el resultado en pantalla.

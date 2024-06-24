@@ -1,0 +1,21 @@
+Ejercicio: Clasificación de números en rangos
+
+Descripción:
+
+Escribe un programa Python que solicite al usuario ingresar un número entero y luego determine en qué rango se encuentra ese número utilizando la declaración match. El programa debe imprimir un mensaje que indique el rango al que pertenece el número.
+
+Instrucciones:
+
+    1.   Pídele al usuario que ingrese un número entero.
+
+    2.  Utiliza la declaración match para clasificar el número en uno de los siguientes rangos:
+
+             Rango 1: Números negativos (menores que 0).
+
+              Rango 2: Números entre 0 (incluido) y 10 (excluido).
+
+              Rango 3: Números mayores o iguales a 10.
+
+    3.  Imprime un mensaje que indique en qué rango se encuentra el número ingresado.
+
+Los estudiantes deben escribir el código completo, incluyendo la captura de entrada del usuario, la declaración match para clasificar el número y la impresión del mensaje resultante. Este ejercicio les permite practicar el uso de múltiples casos en una declaración match y tomar decisiones basadas en rangos numéricos.
